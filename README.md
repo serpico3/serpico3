@@ -30,8 +30,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=serpico3&show_icons=true&theme=radical" alt="stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serpico3&theme=radical" alt="streak" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serpico3&layout=compact&theme=radical" alt="top langs" />
 </p>
 
