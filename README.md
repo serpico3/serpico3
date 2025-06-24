@@ -20,7 +20,7 @@
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,js,ts,nodejs,react,html,css,git,linux,docker,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,html,css,git,linux,docker,vscode,bash,kubernetes,windows" />
 </p>
 
 ---
